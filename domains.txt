@@ -67,6 +67,7 @@ aka.gr
 al.ly
 alil.in
 alturl.com
+alturl.com
 amzn.to
 anon.to
 any.gs
@@ -103,13 +104,17 @@ brk.to
 brzu.net
 budurl.co
 budurl.com
+budurl.com
+buff.ly
 buff.ly
 buk.me
 bul.lu
 burnurl.com
+burnurl.com
 buzurl.com
 bxl.me
 bzh.me
+c-o.in
 c-o.in
 cachor.ro
 captur.in
@@ -126,6 +131,7 @@ chilp.it
 cjb.net
 clck.ru
 cli.gs
+clickmeter.com
 clickmeter.com
 clikk.in
 cn86.org
@@ -151,10 +157,13 @@ db.tt
 dd.ma
 ddp.net
 decenturl.com
+decenturl.com
 deck.ly
 dfl8.me
 dft.ba
 digbig.com
+digbig.com
+digg.com
 digg.com
 doiop.com
 dolp.cc
@@ -162,16 +171,20 @@ dopice.sk
 droid.ws
 dv.gd
 dwarfurl.com
+dwarfurl.com
 dy.fi
 dyo.gs
 e37.eu
 easyuri.com
+easyuri.com
+easyurl.net
 easyurl.net
 ecra.se
 eepurl.com
 ely.re
 erax.cz
 erw.cz
+esyurl.com
 esyurl.com
 ewerl.com
 ex9.co
@@ -183,11 +196,13 @@ fff.re
 fff.to
 fff.wf
 fhurl.com
+fhurl.com
 filoops.info
 filz.fr
 fire.to
 firsturl.de
 flic.kr
+fly2.ws
 fly2.ws
 fnk.es
 foe.hn
@@ -212,6 +227,7 @@ goo.lu
 good.ly
 goshrink.com
 gowat.ch
+gowat.ch
 grem.io
 gri.ms
 guiama.is
@@ -234,6 +250,7 @@ ht.ly
 htxt.it
 hugeurl.com
 hurl.it
+hurl.it
 hurl.me
 hurl.ws
 i-2.co
@@ -252,6 +269,7 @@ info.ms
 inreply.to
 is.gd
 iscool.net
+iscool.net
 isra.li
 iterasi.net
 itm.im
@@ -265,6 +283,7 @@ jijr.com
 jmp2.net
 jp22.net
 jqw.de
+just.as
 just.as
 kask.us
 kd2.org
@@ -284,6 +303,7 @@ kuku.lu
 kxb.me
 l-k.be
 l.gg
+l9.fr
 l9.fr
 lc-s.co
 lc.cx
@@ -324,6 +344,7 @@ lru.jp
 lt.tl
 lurl.no
 lvvk.com
+lvvk.com
 lynk.my
 m1p.fr
 m3mi.com
@@ -341,6 +362,7 @@ moourl.com
 more.sh
 murl.com
 mut.lu
+myurl.in
 myurl.in
 ne1.net
 ne8.org
@@ -381,6 +403,7 @@ picz.us
 pin.st
 ping.fm
 piurl.com
+piurl.com
 plots.fr
 plu.sh
 pm.wu.cz
@@ -396,6 +419,7 @@ ppt.li
 prejit.cz
 prettylinkpro.com
 profile.to
+profile.to
 ptab.it
 ptm.ro
 pw2.ro
@@ -404,10 +428,12 @@ q.gs
 qbn.ru
 qicute.com
 qlnk.net
+qlnk.net
 qqc.co
 qr.ae
 qr.net
 qrtag.fr
+quip-art.com
 quip-art.com
 qxp.cz
 qxp.sk
@@ -419,6 +445,7 @@ rebrand.ly
 rebrandly.com
 redir.ec
 redir.fr
+redirx.com
 redirx.com
 redu.it
 ref.so
@@ -447,6 +474,7 @@ segue.se
 sh.st
 shar.as
 sharein.com
+sharein.com
 sharetabs.com
 sho.rt
 shorl.com
@@ -459,12 +487,14 @@ short.to
 shorte.st
 shorten.me
 shortlinks.co.uk
+shortlinks.co.uk
 shortna.me
 shortquik.com
 shortswitch.com
 shorturl.com
 shoturl.us
 shrinkee.com
+shrinkify.com
 shrinkify.com
 shrinkster.com
 shrinkurl.in
@@ -475,6 +505,7 @@ shrunkin.com
 shw.me
 shy.si
 sicax.net
+simurl.com
 simurl.com
 sina.lt
 sk.gy
@@ -500,6 +531,7 @@ sq6.ru
 sqrl.it
 ssl.gs
 starturl.com
+starturl.com
 sturly.com
 su.pr
 surl.me
@@ -515,6 +547,7 @@ tdjt.cz
 thesa.us
 thinfi.com
 thrdl.es
+tighturl.com
 tighturl.com
 tin.li
 tini.cc
@@ -536,9 +569,11 @@ tldr.sk
 tldrify.com
 tllg.net
 tnij.org
+tnij.org
 tny.cz
 tny.im
 to.ly
+to8.cc
 to8.cc
 togoto.us
 tohle.de
@@ -547,6 +582,7 @@ tpmr.com
 tr.im
 tr.my
 tr5.in
+traceurl.com
 traceurl.com
 trck.me
 trick.ly
@@ -583,6 +619,7 @@ upzat.com
 ur1.ca
 url.co.uk
 url.ie
+url.ie
 url2.fr
 url4.eu
 url5.org
@@ -591,6 +628,7 @@ urlbrief.com
 urlcover.com
 urlcut.com
 urlenco.de
+urlhawk.com
 urlhawk.com
 urlin.it
 urlkiss.com
@@ -627,6 +665,7 @@ w1p.fr
 w3t.org
 waa.ai
 wapurl.co.uk
+wapurl.co.uk
 wb1.eu
 web99.eu
 wed.li
@@ -646,6 +685,7 @@ x2c.eu
 x2c.eumx
 xaddr.com
 xav.cc
+xeeurl.com
 xeeurl.com
 xgd.in
 xib.me
@@ -670,6 +710,7 @@ yau.sh
 yeca.eu
 yect.com
 yep.it
+yep.it
 yfrog.com
 yogh.me
 yon.ir
@@ -692,6 +733,7 @@ zkrat.me
 zkrt.cz
 zoodl.com
 zpag.es
+zsms.net
 zsms.net
 zti.me
 zxq.net
