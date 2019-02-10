@@ -10,7 +10,6 @@
 2.gp
 2.ht
 23o.net
-2ad.in
 2big.at
 2doc.net
 2fear.com
@@ -23,9 +22,7 @@
 3ra.be
 3x.si
 4i.ae
-4url.cc
 4view.me
-5em.cz
 5url.net
 5z8.info
 6fr.ru
@@ -38,14 +35,12 @@
 7li.in
 7vd.cn
 8u.cz
-944.la
 98.to
 a.co
 a.gg
 a.nf
 a0.fr
 a2a.me
-abbr.sk
 abbrr.com
 ad-med.cz
 ad5.eu
@@ -59,19 +54,16 @@ adflav.com
 adfly.fr
 adfoc.us
 adjix.com
-adli.pw
 admy.link
 adv.li
 ajn.me
 aka.gr
 al.ly
-alil.in
 alturl.com
 alturl.com
 amzn.to
 anon.to
 any.gs
-aqva.pl
 ares.tl
 asso.in
 atu.ca
@@ -99,7 +91,6 @@ bloat.me
 boi.re
 bote.me
 bougn.at
-br4.in
 brk.to
 brzu.net
 budurl.co
@@ -116,10 +107,7 @@ bxl.me
 bzh.me
 c-o.in
 c-o.in
-cachor.ro
-captur.in
 catchylink.com
-cbs.so
 cbug.cc
 cc.cc
 ccj.im
@@ -134,15 +122,12 @@ cli.gs
 clickmeter.com
 clickmeter.com
 clikk.in
-cn86.org
 coinurl.com
 cort.as
 couic.fr
 cr.tl
 cudder.it
 cur.lv
-curl.im
-cut.pe
 cut.sk
 cutt.eu
 cutt.us
@@ -150,7 +135,6 @@ cutu.me
 cuturl.com
 cybr.fr
 cyonix.to
-d75.eu
 daa.pl
 dai.ly
 db.tt
@@ -174,7 +158,6 @@ dwarfurl.com
 dwarfurl.com
 dy.fi
 dyo.gs
-e37.eu
 easyuri.com
 easyuri.com
 easyurl.net
@@ -182,7 +165,6 @@ easyurl.net
 ecra.se
 eepurl.com
 ely.re
-erax.cz
 erw.cz
 esyurl.com
 esyurl.com
@@ -222,7 +204,6 @@ go2.me
 go2cut.com
 gog.li
 golinks.co
-goo.gl
 goo.lu
 good.ly
 goshrink.com
@@ -230,7 +211,6 @@ gowat.ch
 gowat.ch
 grem.io
 gri.ms
-guiama.is
 gurl.es
 hadej.co
 hec.su
@@ -254,7 +234,6 @@ hurl.it
 hurl.me
 hurl.ws
 i-2.co
-i99.cz
 ibty.co
 icanhaz.com
 icit.fr
@@ -278,7 +257,6 @@ ix.sk
 j.gs
 j.mp
 jdem.cz
-jieb.be
 jijr.com
 jmp2.net
 jp22.net
@@ -310,9 +288,7 @@ lc.cx
 lcut.in
 letop10.
 libero.it
-lick.my
 lien.li
-lien.pl
 liip.to
 liltext.com
 lin.cr
@@ -336,10 +312,8 @@ lnk.sk
 lnkd.in
 lnked.in
 lnks.fr
-lnky.fr
 lnp.sn
 loopt.us
-lp25.fr
 lru.jp
 lt.tl
 lurl.no
@@ -348,7 +322,6 @@ lvvk.com
 lynk.my
 m1p.fr
 m3mi.com
-make.my
 mcaf.ee
 mdl29.net
 metamark.net
@@ -372,7 +345,6 @@ netz.ly
 nicou.ch
 nig.gr
 njx.me
-nn.nf
 notlong.com
 nov.io
 nq.st
@@ -422,7 +394,6 @@ profile.to
 profile.to
 ptab.it
 ptm.ro
-pw2.ro
 py6.ru
 q.gs
 qbn.ru
@@ -454,9 +425,7 @@ relink.fr
 ri.ms
 rickroll.it
 riz.cz
-riz.gd
 rod.gs
-roflc.at
 rsmonkey.com
 rt.se
 rt.tc
@@ -466,7 +435,6 @@ s-url.fr
 s.id
 s7y.us
 safe.mn
-sagyap.tk
 scrnch.me
 sdu.sk
 seeme.at
@@ -481,7 +449,6 @@ shorl.com
 short.cc
 short.cm
 short.ie
-short.nr
 short.pk
 short.to
 shorte.st
@@ -503,13 +470,11 @@ shrt.st
 shrten.com
 shrunkin.com
 shw.me
-shy.si
 sicax.net
 simurl.com
 simurl.com
 sina.lt
 sk.gy
-skr.sk
 skroc.pl
 slink.co
 smll.co
@@ -523,9 +488,7 @@ snipurl.com
 snsw.us
 snurl.com
 soo.gd
-sp2.ro
 spedr.com
-spn.sr
 sptfy.com
 sq6.ru
 sqrl.it
@@ -560,10 +523,8 @@ tiny123.com
 tinyarro.ws
 tinyarrows.com
 tinytw.it
-tinyuri.ca
 tinyurl.com
 tinyurl.hu
-tinyvid.io
 tixsu.com
 tldr.sk
 tldrify.com
@@ -593,7 +554,6 @@ turo.us
 tweetburner.com
 tweez.me
 twet.fr
-twi.im
 twirl.at
 twit.ac
 twitterpan.com
@@ -620,7 +580,6 @@ ur1.ca
 url.co.uk
 url.ie
 url.ie
-url2.fr
 url4.eu
 url5.org
 urlao.com
@@ -645,8 +604,6 @@ utfg.sk
 v.gd
 v.ht
 v5.gd
-vaaa.fr
-valv.im
 vaza.me
 vbly.us
 vd55.com
@@ -737,6 +694,5 @@ zsms.net
 zsms.net
 zti.me
 zxq.net
-zyva.org
 zz.gd
 zzb.bz
