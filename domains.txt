@@ -140,6 +140,7 @@ curl.im
 cut.pe
 cut.sk
 cutt.eu
+cutt.ly
 cutt.us
 cutu.me
 cuturl.com
@@ -458,6 +459,7 @@ shorl.com
 short.cc
 short.cm
 short.ie
+short.io
 short.nr
 short.pk
 short.to
@@ -630,6 +632,7 @@ vur.me
 vurl.com
 vv.vg
 vzturl.com
+w.wiki
 w1p.fr
 w3t.org
 waa.ai
