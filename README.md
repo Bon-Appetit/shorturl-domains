@@ -1,13 +1,13 @@
 # Short URL Domains
 This list is a collection of bunch of domains that are used for short urls like bit.ly.
 
-## domains.txt
-Contains all domains which are used for short urls. Domains from ignore.txt and whitelist.txt are removed from here.
+## block.txt
+Contains all domains which are used for short urls. Domains from ignore.txt and white.txt are removed from here.
 
 ## ignore.txt
 A list of domains which have been tested for their availability. Those domains are no longer registered or do not have any valid DNS records which also makes them unable to access.
 
-## whitelist.txt
+## white.txt
 Here you can find domains which are false listed or whose content has changed.
 
 ### Something's missing?
