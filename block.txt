@@ -2,15 +2,12 @@
 1-url.net
 126.am
 1link.in
-1tk.us
 1un.fr
 1url.com
 1url.cz
-1wb2.net
 2.gp
 2.ht
 23o.net
-2big.at
 2doc.net
 2fear.com
 2pl.us
@@ -23,15 +20,12 @@
 3x.si
 4i.ae
 4url.cc
-5url.net
 5z8.info
 6g6.eu
 6url.com
 7.ly
-77.ai
 7fth.cc
 7li.in
-7vd.cn
 8u.cz
 944.la
 98.to
@@ -67,7 +61,6 @@ any.gs
 asso.in
 atu.ca
 ayt.fr
-azali.fr
 b00.fr
 b23.ru
 b54.in
@@ -108,7 +101,6 @@ cbs.so
 cbug.cc
 cc.cc
 ccj.im
-cektkp.com
 cf2.me
 cf6.co
 chilp.it
@@ -123,7 +115,6 @@ cort.as
 cur.lv
 curl.im
 cut.pe
-cutt.eu
 cutt.ly
 cutt.us
 cutu.me
@@ -134,7 +125,6 @@ daa.pl
 dai.ly
 db.tt
 dd.ma
-ddp.net
 decenturl.com
 deck.ly
 dfl8.me
@@ -170,7 +160,6 @@ fnk.es
 foe.hn
 folu.me
 fon.gs
-freze.it
 fur.ly
 fwd4.me
 fzy.co
@@ -187,7 +176,6 @@ goo.gl
 good.ly
 goshrink.com
 gowat.ch
-grem.io
 gri.ms
 gurl.es
 hec.su
@@ -216,7 +204,6 @@ idek.net
 iiiii.in
 iky.fr
 ilix.in
-info.ms
 inreply.to
 is.gd
 iscool.net
@@ -239,7 +226,6 @@ kfd.pl
 ki.ms
 kissa.be
 kl.am
-klck.me
 korta.nu
 kr3w.de
 krod.cz
@@ -248,7 +234,6 @@ kuc.cz
 kuku.lu
 kxb.me
 l-k.be
-l.gg
 l9.fr
 lc-s.co
 lc.cx
@@ -256,7 +241,6 @@ lcut.in
 libero.it
 lien.li
 liip.to
-liltext.com
 link.zip.net
 linkbun.ch
 linkn.co
@@ -295,7 +279,6 @@ murl.com
 myurl.in
 ne1.net
 ne8.org
-net.ms
 net46.net
 netz.ly
 nicou.ch
@@ -318,7 +301,6 @@ para.pt
 parky.tv
 past.is
 pdh.co
-pgj.cc
 ph.dog
 ph.ly
 pic.gd
@@ -366,17 +348,13 @@ ref.so
 relink.fr
 ri.ms
 riz.cz
-rsmonkey.com
 rt.tc
-rubyurl.com
 s-url.fr
 s.id
 s7y.us
 safe.mn
-sagyap.tk
 scrnch.me
 sdu.sk
-segue.se
 sh.st
 shar.as
 sharein.com
@@ -412,7 +390,6 @@ skroc.pl
 slink.co
 smll.co
 sn.im
-sn.vc
 snip.li
 snip.ly
 snipli.com
@@ -420,16 +397,15 @@ snipr.com
 snipurl.com
 snsw.us
 snurl.com
-soo.gd
 sp2.ro
 spedr.com
+spn.sr
 sptfy.com
 sq6.ru
 sqrl.it
 ssl.gs
 starturl.com
 sturly.com
-su.pr
 t.cn
 t.co
 ta.gd
@@ -438,10 +414,8 @@ tau.pe
 tcrn.ch
 tdjt.cz
 thinfi.com
-thrdl.es
 tighturl.com
 tin.li
-tini.cc
 tiny.cc
 tiny.lt
 tiny.ms
@@ -458,7 +432,6 @@ tnij.org
 tny.cz
 tny.im
 to.ly
-to8.cc
 togoto.us
 tohle.de
 tota2.com
@@ -471,10 +444,8 @@ trick.ly
 trkr.ws
 trunc.it
 turl.ca
-turo.us
 tweetburner.com
 tweez.me
-twet.fr
 twirl.at
 twitterpan.com
 twitthis.com
@@ -498,6 +469,7 @@ url2.fr
 url4.eu
 url5.org
 urlao.com
+urlbrief.com
 urlcover.com
 urlcut.com
 urlenco.de
@@ -515,7 +487,6 @@ urub.us
 utfg.sk
 v.gd
 v.ht
-valv.im
 vaza.me
 vbly.us
 vd55.com
@@ -533,7 +504,6 @@ w.wiki
 w1p.fr
 w3t.org
 waa.ai
-wapurl.co.uk
 web99.eu
 wed.li
 wipi.es
@@ -544,7 +514,6 @@ ww7.fr
 wwy.me
 x.co
 x.nu
-x.se
 x10.mx
 x2c.eu
 xaddr.com
@@ -578,17 +547,16 @@ yu2.it
 yweb.com
 yyv.co
 z9.fr
-zapit.nu
 zi.ma
 zi.pe
 zip.net
 zipmyurl.com
 zkr.cz
 zkrat.me
+zkrt.cz
 zoodl.com
 zpag.es
 zsms.net
 zti.me
 zxq.net
 zz.gd
-zzb.bz
