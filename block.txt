@@ -38,7 +38,6 @@ a0.fr
 a2a.me
 abbr.sk
 abbrr.com
-ad-med.cz
 ad5.eu
 ad7.biz
 adb.ug
@@ -218,7 +217,6 @@ j.mp
 jdem.cz
 jijr.com
 jmp2.net
-jp22.net
 jqw.de
 just.as
 kask.us
@@ -325,7 +323,6 @@ prettylinkpro.com
 profile.to
 ptab.it
 ptm.ro
-py6.ru
 q.gs
 qbn.ru
 qicute.com
@@ -409,7 +406,6 @@ sqrl.it
 ssl.gs
 starturl.com
 sturly.com
-surl.me
 t.cn
 t.co
 ta.gd
@@ -552,7 +548,6 @@ yu2.it
 yweb.com
 yyv.co
 z9.fr
-zi.ma
 zi.pe
 zip.net
 zipmyurl.com

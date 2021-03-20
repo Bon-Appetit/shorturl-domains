@@ -6,6 +6,7 @@
 5em.cz
 6fr.ru
 76.gd
+ad-med.cz
 alil.in
 aqva.pl
 ares.tl
@@ -45,6 +46,7 @@ ibty.co
 id.tl
 info.ms
 jieb.be
+jp22.net
 klck.me
 krat.si
 kratsi.cz
@@ -75,6 +77,7 @@ pm.wu.cz
 pnt.me
 ppfr.it
 pw2.ro
+py6.ru
 redir.fr
 reise.lc
 rickroll.it
@@ -94,6 +97,7 @@ short.nr
 shy.si
 soo.gd
 su.pr
+surl.me
 sux.cz
 sy.pe
 thesa.us
@@ -136,6 +140,7 @@ yau.sh
 yon.ir
 zapit.nu
 zeek.ir
+zi.ma
 zkr.cz
 zoodl.com
 zyva.org
