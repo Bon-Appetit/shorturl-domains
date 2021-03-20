@@ -71,7 +71,6 @@ ou.gd
 pd.am
 pgj.cc
 pich.in
-piurl.com
 pm.wu.cz
 pnt.me
 ppfr.it
@@ -84,8 +83,8 @@ rod.gs
 roflc.at
 rsmonkey.com
 rt.se
-rubyurl.com
 ru.ly
+rubyurl.com
 sagyap.tk
 seeme.at
 segue.se
@@ -95,7 +94,6 @@ short.nr
 shy.si
 soo.gd
 su.pr
-surl.me
 sux.cz
 sy.pe
 thesa.us
@@ -106,8 +104,8 @@ tinyuri.ca
 tinyvid.io
 tixsu.com
 to8.cc
-trflk.cc
 tr.my
+trflk.cc
 twet.fr
 twi.im
 twit.ac
@@ -129,9 +127,9 @@ webredirect.click
 webrefer.cc
 wideo.fr
 wif.red
+x.se
 xgd.in
 xlinkz.info
-x.se
 xt3.me
 yagoa.me
 yau.sh
