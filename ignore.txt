@@ -34,7 +34,6 @@ klck.me
 krat.si
 lick.my
 lien.pl
-liltext.com
 lin.io
 linkfollowservice.com
 linksrtnr.com
@@ -43,7 +42,6 @@ lnk.ly
 lnky.fr
 lnp.sn
 lp25.fr
-more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -63,10 +61,9 @@ ru.ly
 sagyap.tk
 short.nr
 shy.si
-soo.gd
-surl.me
 sux.cz
 sy.pe
+teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it

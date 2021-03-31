@@ -258,6 +258,7 @@ l.gg
 libero.it
 lien.li
 liip.to
+liltext.com
 lin.cr
 linkbee.com
 linkbun.ch
@@ -296,6 +297,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -428,6 +430,7 @@ snipurl.com
 snsw.us
 snurl.com
 sn.vc
+soo.gd
 sp2.ro
 spedr.com
 spn.sr
@@ -439,6 +442,7 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
 tabzi.com
 ta.gd
 tau.pe
@@ -446,7 +450,6 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
