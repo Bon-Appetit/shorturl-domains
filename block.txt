@@ -203,7 +203,6 @@ hover.com
 href.in
 href.li
 href.re
-ht.ly
 htxt.it
 hugeurl.com
 hurl.it
@@ -297,7 +296,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
@@ -442,7 +440,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 tabzi.com
 ta.gd
 tau.pe
@@ -465,6 +462,7 @@ tiny.pl
 tiny.tw
 tinyurl.com
 tinyurl.hu
+tinyvid.io
 tldrify.com
 tldr.sk
 tllg.net
