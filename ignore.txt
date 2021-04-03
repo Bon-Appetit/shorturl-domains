@@ -43,7 +43,6 @@ lnk.ly
 lnky.fr
 lnp.sn
 lp25.fr
-more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -58,12 +57,10 @@ rickroll.it
 riz.gd
 rod.gs
 roflc.at
-rsmonkey.com
 ru.ly
 sagyap.tk
 short.nr
 shy.si
-surl.me
 sux.cz
 sy.pe
 thesa.us

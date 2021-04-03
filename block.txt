@@ -296,6 +296,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -373,6 +374,7 @@ ref.so
 relink.fr
 ri.ms
 riz.cz
+rsmonkey.com
 rt.se
 rt.tc
 rubyurl.com
@@ -440,6 +442,7 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
 tabzi.com
 ta.gd
 tau.pe
