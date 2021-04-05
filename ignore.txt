@@ -43,7 +43,6 @@ lnk.ly
 lnky.fr
 lnp.sn
 lp25.fr
-more.sh
 mut.lu
 nn.nf
 nxto.be
