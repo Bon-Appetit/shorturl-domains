@@ -10,7 +10,6 @@ ares.tl
 au.ms
 boxsign.info
 cachor.ro
-cektkp.com
 cf.ly
 cr.tl
 cudder.it
@@ -26,7 +25,6 @@ guiama.is
 hadej.co
 hamns.net
 hrf.re
-ht.ly
 ibty.co
 id.tl
 jieb.be
@@ -60,7 +58,6 @@ ru.ly
 sagyap.tk
 short.nr
 shy.si
-surl.me
 sux.cz
 sy.pe
 thesa.us

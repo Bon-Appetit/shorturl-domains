@@ -105,6 +105,7 @@ cbs.so
 cbug.cc
 cc.cc
 ccj.im
+cektkp.com
 cf2.me
 cf6.co
 chilp.it
@@ -204,6 +205,7 @@ hover.com
 href.in
 href.li
 href.re
+ht.ly
 htxt.it
 hugeurl.com
 hurl.it
@@ -443,6 +445,7 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
 tabzi.com
 ta.gd
 tau.pe
