@@ -155,7 +155,6 @@ eepurl.com
 ely.re
 erw.cz
 esyurl.com
-ewerl.com
 ezurl.cc
 fave.co
 fff.to
@@ -299,7 +298,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
