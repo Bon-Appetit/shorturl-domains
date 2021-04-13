@@ -61,7 +61,6 @@ short.nr
 shy.si
 sux.cz
 sy.pe
-teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it
