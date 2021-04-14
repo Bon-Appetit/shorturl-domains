@@ -36,7 +36,6 @@
 a0.fr
 a2a.me
 abbrr.com
-abbr.sk
 a.co
 ad5.eu
 ad7.biz
@@ -444,7 +443,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 tabzi.com
 ta.gd
 tau.pe

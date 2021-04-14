@@ -4,6 +4,7 @@
 5em.cz
 6fr.ru
 76.gd
+abbr.sk
 alil.in
 aqva.pl
 ares.tl
@@ -59,6 +60,7 @@ ru.ly
 sagyap.tk
 short.nr
 shy.si
+surl.me
 sux.cz
 sy.pe
 thesa.us
