@@ -42,6 +42,7 @@ lnk.ly
 lnky.fr
 lnp.sn
 lp25.fr
+more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -60,7 +61,6 @@ ru.ly
 sagyap.tk
 short.nr
 shy.si
-surl.me
 sux.cz
 sy.pe
 thesa.us
@@ -82,6 +82,7 @@ v5.gd
 vaaa.fr
 valv.im
 vsll.eu
+vurl.com
 webredirect.click
 webrefer.cc
 wif.red
