@@ -450,6 +450,7 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -539,6 +540,7 @@ virl.com
 vl.am
 vov.li
 vt802.us
+vurl.com
 vur.me
 vv.vg
 vzturl.com
