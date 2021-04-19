@@ -297,7 +297,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
@@ -451,6 +450,7 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -526,7 +526,6 @@ urlx.ie
 urlx.org
 urlzen.com
 urlz.fr
-urub.us
 utfg.sk
 u.to
 vaza.me
@@ -603,6 +602,7 @@ zi.pe
 zipmyurl.com
 zip.net
 zkrat.me
+zkr.cz
 zkrt.cz
 zoodl.com
 zpag.es

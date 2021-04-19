@@ -42,6 +42,7 @@ lnk.ly
 lnky.fr
 lnp.sn
 lp25.fr
+more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -62,7 +63,6 @@ short.nr
 shy.si
 sux.cz
 sy.pe
-teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it
@@ -78,6 +78,7 @@ ulmt.in
 unlc.us
 url.co.uk
 urlkiss.com
+urub.us
 v5.gd
 vaaa.fr
 valv.im
@@ -90,6 +91,5 @@ xt3.me
 yagoa.me
 yau.sh
 yon.ir
-zkr.cz
 zyva.org
 zzb.bz2ad.in
