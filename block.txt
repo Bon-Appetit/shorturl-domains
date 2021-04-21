@@ -296,6 +296,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -370,7 +371,6 @@ redir.fr
 redirx.com
 redu.it
 ref.so
-relink.fr
 ri.ms
 riz.cz
 rsmonkey.com
@@ -546,7 +546,6 @@ w1p.fr
 w3t.org
 waa.ai
 wapurl.co.uk
-wb1.eu
 web99.eu
 wed.li
 wideo.fr
@@ -559,7 +558,6 @@ w.wiki
 wwy.me
 x10.mx
 x2c.eu
-xaddr.com
 xav.cc
 x.co
 xeeurl.com

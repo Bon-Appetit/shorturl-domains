@@ -43,7 +43,6 @@ lnk.ly
 lnky.fr
 lnp.sn
 lp25.fr
-more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -54,6 +53,7 @@ pnt.me
 ppfr.it
 pw2.ro
 reise.lc
+relink.fr
 rickroll.it
 riz.gd
 rod.gs
@@ -84,9 +84,11 @@ v5.gd
 vaaa.fr
 valv.im
 vsll.eu
+wb1.eu
 webredirect.click
 webrefer.cc
 wif.red
+xaddr.com
 xlinkz.info
 xt3.me
 yagoa.me
