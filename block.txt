@@ -448,7 +448,6 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -461,6 +460,7 @@ tiny.lt
 tiny.ms
 tiny.pl
 tiny.tw
+tinytw.it
 tinyurl.com
 tinyurl.hu
 tinyvid.io
