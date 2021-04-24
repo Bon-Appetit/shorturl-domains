@@ -460,7 +460,6 @@ tiny.lt
 tiny.ms
 tiny.pl
 tiny.tw
-tinytw.it
 tinyurl.com
 tinyurl.hu
 tinyvid.io
@@ -537,7 +536,6 @@ virl.com
 vl.am
 vov.li
 vt802.us
-vurl.com
 vur.me
 vv.vg
 vzturl.com
