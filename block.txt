@@ -1,6 +1,7 @@
 0rz.tw
 126.am
 1link.in
+1tk.us
 1un.fr
 1url.com
 1url.cz
@@ -168,6 +169,7 @@ fly2.ws
 fnk.es
 foe.hn
 folu.me
+fon.gs
 freze.it
 fur.ly
 fwd4.me
@@ -228,6 +230,7 @@ ity.im
 ix.sk
 jdem.cz
 j.gs
+jieb.be
 jijr.com
 j.mp
 jmp2.net
@@ -239,8 +242,10 @@ kd2.org
 kfd.pl
 ki.ms
 kissa.be
+kl.am
 korta.nu
 kr3w.de
+krat.si
 kratsi.cz
 krod.cz
 krunchd.com
@@ -273,6 +278,7 @@ lnk.gd
 lnk.in
 lnks.fr
 lnk.sk
+lnky.fr
 ln-s.net
 ln-s.ru
 loopt.us
@@ -294,6 +300,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -318,9 +325,9 @@ o-x.fr
 p6l.org
 para.pt
 parky.tv
-past.is
 pd.am
 pdh.co
+pgj.cc
 ph.dog
 ph.ly
 pic.gd
@@ -336,6 +343,7 @@ poprl.com
 po.st
 posted.at
 post.ly
+ppfr.it
 ppst.me
 ppt.cc
 ppt.li
@@ -437,7 +445,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 tabzi.com
 ta.gd
 tau.pe
@@ -461,6 +468,7 @@ tiny.tw
 tinyurl.com
 tinyurl.hu
 tinyvid.io
+tixsu.com
 tldrify.com
 tldr.sk
 tllg.net
