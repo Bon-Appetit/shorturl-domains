@@ -275,7 +275,6 @@ lnk.in
 lnks.fr
 lnk.sk
 ln-s.net
-ln-s.ru
 loopt.us
 lru.jp
 lt.tl
@@ -438,6 +437,7 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
 tabzi.com
 ta.gd
 tau.pe
