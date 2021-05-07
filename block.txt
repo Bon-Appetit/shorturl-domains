@@ -97,7 +97,6 @@ burnurl.com
 buzurl.com
 bxl.me
 bzh.me
-captur.in
 catchylink.com
 cbs.so
 cbug.cc
@@ -169,6 +168,7 @@ fnk.es
 foe.hn
 folu.me
 freze.it
+fun.ly
 fur.ly
 fwd4.me
 fzy.co
@@ -437,7 +437,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 tabzi.com
 ta.gd
 tau.pe

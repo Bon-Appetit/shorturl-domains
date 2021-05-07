@@ -12,6 +12,7 @@ au.ms
 bigly.us
 boxsign.info
 cachor.ro
+captur.in
 cf.ly
 cr.tl
 cudder.it
@@ -23,7 +24,6 @@ ewerl.com
 ex9.co
 fff.re
 fon.gs
-fun.ly
 gog.li
 guiama.is
 hadej.co
@@ -66,6 +66,7 @@ sagyap.tk
 short.nr
 shrinkee.com
 shy.si
+surl.me
 sux.cz
 sy.pe
 thesa.us
