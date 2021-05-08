@@ -24,6 +24,7 @@ ewerl.com
 ex9.co
 fff.re
 fon.gs
+fun.ly
 gog.li
 guiama.is
 hadej.co
@@ -45,7 +46,6 @@ lnky.fr
 lnp.sn
 ln-s.ru
 lp25.fr
-more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -69,6 +69,7 @@ shy.si
 surl.me
 sux.cz
 sy.pe
+teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it
