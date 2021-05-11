@@ -14,6 +14,7 @@ boxsign.info
 cachor.ro
 captur.in
 cf.ly
+clikk.in
 cr.tl
 cudder.it
 d75.eu
@@ -46,7 +47,7 @@ lnky.fr
 lnp.sn
 ln-s.ru
 lp25.fr
-more.sh
+make.my
 mut.lu
 nn.nf
 nxto.be
@@ -67,7 +68,6 @@ sagyap.tk
 short.nr
 shrinkee.com
 shy.si
-surl.me
 sux.cz
 sy.pe
 thesa.us
