@@ -291,7 +291,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
@@ -443,9 +442,7 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
-thrdl.es
 tighturl.com
 tini.cc
 tin.li
