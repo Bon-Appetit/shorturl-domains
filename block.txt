@@ -7,6 +7,7 @@
 1-url.net
 1wb2.net
 23o.net
+2big.at
 2doc.net
 2fear.com
 2.gp
@@ -434,7 +435,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 tabzi.com
 ta.gd
 tau.pe
@@ -442,7 +442,9 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
+thrdl.es
 tighturl.com
 tini.cc
 tin.li
