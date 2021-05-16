@@ -1,4 +1,3 @@
-1tk.us
 4view.me
 5em.cz
 6fr.ru
@@ -23,6 +22,7 @@ erax.cz
 ewerl.com
 ex9.co
 fff.re
+fire.to
 fon.gs
 fun.ly
 gog.li
@@ -47,12 +47,12 @@ lnp.sn
 ln-s.ru
 lp25.fr
 make.my
-more.sh
 mut.lu
 nn.nf
 nxto.be
 ou.af
 ou.gd
+parky.tv
 pgj.cc
 pnt.me
 ppfr.it
@@ -71,6 +71,7 @@ shy.si
 surl.me
 sux.cz
 sy.pe
+teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it

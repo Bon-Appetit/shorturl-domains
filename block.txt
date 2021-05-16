@@ -1,6 +1,7 @@
 0rz.tw
 126.am
 1link.in
+1tk.us
 1un.fr
 1url.com
 1url.cz
@@ -160,7 +161,6 @@ ff.im
 fhurl.com
 filoops.info
 filz.fr
-fire.to
 firsturl.de
 flic.kr
 fly2.ws
@@ -292,6 +292,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -315,7 +316,6 @@ ow.ly
 o-x.fr
 p6l.org
 para.pt
-parky.tv
 past.is
 pd.am
 pdh.co
@@ -442,7 +442,6 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
