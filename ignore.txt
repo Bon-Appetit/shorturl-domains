@@ -46,7 +46,6 @@ lnp.sn
 ln-s.ru
 lp25.fr
 make.my
-more.sh
 mut.lu
 nn.nf
 nxto.be
