@@ -46,7 +46,7 @@ lnky.fr
 lnp.sn
 ln-s.ru
 lp25.fr
-make.my
+more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -67,8 +67,8 @@ sagyap.tk
 short.nr
 shrinkee.com
 shy.si
-surl.me
 sux.cz
+teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it
