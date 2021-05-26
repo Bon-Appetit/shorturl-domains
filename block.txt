@@ -293,6 +293,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -445,6 +446,7 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -494,6 +496,7 @@ twurl.nl
 tyn.ee
 u6e.de
 ub0.cc
+u.bb
 uby.es
 ucam.me
 ug.cz
@@ -533,7 +536,6 @@ virl.com
 vl.am
 vov.li
 vt802.us
-vurl.com
 vur.me
 vv.vg
 vzturl.com

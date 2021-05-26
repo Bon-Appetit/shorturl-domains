@@ -46,7 +46,6 @@ lnky.fr
 lnp.sn
 ln-s.ru
 lp25.fr
-more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -68,7 +67,6 @@ short.nr
 shrinkee.com
 shy.si
 sux.cz
-teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it
@@ -78,7 +76,6 @@ trflk.cc
 twet.fr
 twi.im
 twit.ac
-u.bb
 ulmt.in
 unlc.us
 urlao.com
@@ -89,6 +86,7 @@ v5.gd
 vaaa.fr
 valv.im
 vsll.eu
+vurl.com
 wb1.eu
 webredirect.click
 webrefer.cc
