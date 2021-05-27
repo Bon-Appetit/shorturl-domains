@@ -76,6 +76,7 @@ trflk.cc
 twet.fr
 twi.im
 twit.ac
+u.bb
 ulmt.in
 unlc.us
 urlao.com
@@ -86,7 +87,6 @@ v5.gd
 vaaa.fr
 valv.im
 vsll.eu
-vurl.com
 wb1.eu
 webredirect.click
 webrefer.cc
