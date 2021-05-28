@@ -293,7 +293,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
@@ -398,6 +397,7 @@ shortswitch.com
 short.to
 shorturl.com
 shoturl.us
+shrinkee.com
 shrinkify.com
 shrinkster.com
 shrinkurl.in
@@ -446,7 +446,6 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -499,6 +498,7 @@ ub0.cc
 uby.es
 ucam.me
 ug.cz
+ulmt.in
 u.mavrev.com
 u.nu
 updating.me
@@ -555,6 +555,7 @@ w.wiki
 wwy.me
 x10.mx
 x2c.eu
+xaddr.com
 xav.cc
 x.co
 xeeurl.com
