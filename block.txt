@@ -117,6 +117,7 @@ c-o.in
 coinurl.com
 cort.as
 couic.fr
+cr.tl
 curl.im
 cur.lv
 cut.pe
@@ -293,7 +294,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
@@ -535,6 +535,7 @@ virl.com
 vl.am
 vov.li
 vt802.us
+vurl.com
 vur.me
 vv.vg
 vzturl.com
