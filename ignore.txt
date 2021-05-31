@@ -13,6 +13,7 @@ cachor.ro
 captur.in
 cf.ly
 clikk.in
+cr.tl
 cudder.it
 d75.eu
 dolp.cc
@@ -21,7 +22,6 @@ erax.cz
 ewerl.com
 ex9.co
 fff.re
-fon.gs
 fun.ly
 gog.li
 guiama.is
@@ -65,9 +65,7 @@ ru.ly
 sagyap.tk
 short.nr
 shy.si
-surl.me
 sux.cz
-teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it
