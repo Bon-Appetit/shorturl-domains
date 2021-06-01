@@ -119,6 +119,7 @@ cort.as
 couic.fr
 curl.im
 cur.lv
+cut.by
 cut.pe
 cut.sk
 cutt.eu
@@ -208,6 +209,7 @@ hugeurl.com
 hurl.it
 hurl.me
 hurl.ws
+hyperurl.co
 i-2.co
 i99.cz
 icanhaz.com
@@ -220,6 +222,8 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
+iplogger.com
+iplogger.org
 iscool.net
 is.gd
 isra.li
@@ -269,6 +273,7 @@ liurl.cn
 llu.ch
 lnk.co
 lnkd.in
+lnk.direct
 lnked.in
 lnk.gd
 lnk.in
@@ -286,6 +291,7 @@ m3mi.com
 make.my
 mcaf.ee
 mdl29.net
+merky.de
 metamark.net
 mic.fr
 migre.me
@@ -416,6 +422,7 @@ sk.gy
 skroc.pl
 skr.sk
 slink.co
+smarturl.it
 smll.co
 sn.im
 snip.li
@@ -433,6 +440,7 @@ spn.sr
 sptfy.com
 sq6.ru
 sqrl.it
+s.rlp.de
 ssl.gs
 starturl.com
 sturly.com
