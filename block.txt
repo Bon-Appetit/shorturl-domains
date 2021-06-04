@@ -223,7 +223,6 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
-iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -301,7 +300,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
@@ -376,13 +374,13 @@ redir.fr
 redirx.com
 redu.it
 ref.so
-relink.fr
 ri.ms
 riz.cz
 rsmonkey.com
 rt.se
 rt.tc
 rubyurl.com
+ru.ly
 s7y.us
 safe.mn
 scrnch.me
@@ -458,7 +456,6 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com

@@ -29,6 +29,7 @@ hamns.net
 hrf.re
 ibty.co
 id.tl
+iplogger.com
 jieb.be
 klck.me
 krat.si
@@ -44,6 +45,7 @@ lnky.fr
 lnp.sn
 ln-s.ru
 lp25.fr
+more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -54,15 +56,16 @@ pnt.me
 ppfr.it
 pw2.ro
 reise.lc
+relink.fr
 rickroll.it
 riz.gd
 rod.gs
 roflc.at
-ru.ly
 sagyap.tk
 short.nr
 shy.si
 sux.cz
+teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it
