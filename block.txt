@@ -74,6 +74,7 @@ bacn.me
 baid.us
 bc.vc
 bee4.biz
+bigly.us
 bim.im
 bit.do
 bit.ly
@@ -223,6 +224,7 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
+iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -380,7 +382,6 @@ rsmonkey.com
 rt.se
 rt.tc
 rubyurl.com
-ru.ly
 s7y.us
 safe.mn
 scrnch.me
@@ -456,6 +457,7 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
