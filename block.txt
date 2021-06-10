@@ -84,7 +84,6 @@ bkite.com
 blap.net
 ble.pl
 blip.tv
-bloat.me
 boi.re
 bote.me
 bougn.at
@@ -187,7 +186,6 @@ go.9nl.com
 golinks.co
 good.ly
 goo.gl
-goo.lu
 goshrink.com
 gowat.ch
 grem.io
@@ -224,7 +222,6 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
-iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -458,7 +455,6 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com

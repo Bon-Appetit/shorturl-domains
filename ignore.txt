@@ -7,6 +7,7 @@ alil.in
 aqva.pl
 ares.tl
 au.ms
+bloat.me
 boxsign.info
 cachor.ro
 captur.in
@@ -22,12 +23,14 @@ ewerl.com
 fff.re
 fun.ly
 gog.li
+goo.lu
 guiama.is
 hadej.co
 hamns.net
 hrf.re
 ibty.co
 id.tl
+iplogger.com
 jieb.be
 klck.me
 krat.si
@@ -63,6 +66,7 @@ sagyap.tk
 short.nr
 shy.si
 sux.cz
+teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it
