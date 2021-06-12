@@ -2,6 +2,7 @@
 5em.cz
 6fr.ru
 76.gd
+abbr.sk
 alil.in
 aqva.pl
 ares.tl
@@ -10,6 +11,7 @@ bloat.me
 boxsign.info
 cachor.ro
 captur.in
+cf.ly
 clikk.in
 cr.tl
 cudder.it
@@ -29,6 +31,7 @@ hrf.re
 ibty.co
 id.tl
 jieb.be
+klck.me
 krat.si
 lick.my
 lien.pl
@@ -52,8 +55,11 @@ pnt.me
 ppfr.it
 pw2.ro
 reise.lc
+relink.fr
 rickroll.it
 riz.gd
+rod.gs
+roflc.at
 ru.ly
 sagyap.tk
 short.nr
@@ -64,6 +70,7 @@ tiny123.com
 tinytw.it
 tinyuri.ca
 tixsu.com
+trflk.cc
 twet.fr
 twi.im
 twit.ac
@@ -76,6 +83,7 @@ urub.us
 v5.gd
 vaaa.fr
 valv.im
+vsll.eu
 wb1.eu
 webredirect.click
 webrefer.cc

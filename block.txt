@@ -38,7 +38,6 @@
 a0.fr
 a2a.me
 abbrr.com
-abbr.sk
 a.co
 ad5.eu
 ad7.biz
@@ -108,7 +107,6 @@ ccj.im
 cektkp.com
 cf2.me
 cf6.co
-cf.ly
 chilp.it
 cjb.net
 clck.ru
@@ -247,7 +245,6 @@ kfd.pl
 ki.ms
 kissa.be
 kl.am
-klck.me
 korta.nu
 kr3w.de
 kratsi.cz
@@ -378,11 +375,8 @@ redir.fr
 redirx.com
 redu.it
 ref.so
-relink.fr
 ri.ms
 riz.cz
-rod.gs
-roflc.at
 rsmonkey.com
 rt.se
 rt.tc
@@ -493,7 +487,6 @@ tpmr.com
 tr5.in
 traceurl.com
 trck.me
-trflk.cc
 trick.ly
 tr.im
 trkr.ws
@@ -552,7 +545,6 @@ v.ht
 virl.com
 vl.am
 vov.li
-vsll.eu
 vt802.us
 vurl.com
 vur.me
