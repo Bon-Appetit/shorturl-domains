@@ -167,7 +167,6 @@ fire.to
 firsturl.de
 flic.kr
 fly2.ws
-fnk.es
 foe.hn
 folu.me
 fon.gs
@@ -300,7 +299,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
@@ -375,6 +373,7 @@ redir.fr
 redirx.com
 redu.it
 ref.so
+relink.fr
 ri.ms
 riz.cz
 rsmonkey.com
