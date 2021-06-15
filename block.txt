@@ -112,6 +112,7 @@ cjb.net
 clck.ru
 clickmeter.com
 cli.gs
+clikk.in
 cn86.org
 c-o.in
 coinurl.com
@@ -455,7 +456,6 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
