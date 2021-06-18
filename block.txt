@@ -300,6 +300,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -506,7 +507,6 @@ twurl.nl
 tyn.ee
 u6e.de
 ub0.cc
-u.bb
 uby.es
 ucam.me
 ug.cz
