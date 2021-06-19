@@ -457,7 +457,6 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -519,6 +518,7 @@ ur1.ca
 url2.fr
 url4.eu
 url5.org
+urlao.com
 urlbrief.com
 urlcover.com
 urlcut.com

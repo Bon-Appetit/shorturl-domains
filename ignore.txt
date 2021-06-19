@@ -64,6 +64,7 @@ sagyap.tk
 short.nr
 shy.si
 sux.cz
+teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it
@@ -75,7 +76,6 @@ twi.im
 twit.ac
 u.bb
 unlc.us
-urlao.com
 url.co.uk
 urlkiss.com
 urub.us
