@@ -65,6 +65,7 @@ ru.ly
 sagyap.tk
 short.nr
 shy.si
+surl.me
 sux.cz
 thesa.us
 tiny123.com
