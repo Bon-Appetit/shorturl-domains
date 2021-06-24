@@ -27,7 +27,6 @@
 5z8.info
 6g6.eu
 6url.com
-76.gd
 77.ai
 7fth.cc
 7li.in
@@ -39,7 +38,6 @@
 a0.fr
 a2a.me
 abbrr.com
-abbr.sk
 a.co
 ad5.eu
 ad7.biz
@@ -89,7 +87,6 @@ blip.tv
 boi.re
 bote.me
 bougn.at
-boxsign.info
 br4.in
 brk.to
 brzu.net
@@ -151,7 +148,6 @@ dv.gd
 dwarfurl.com
 dy.fi
 dyo.gs
-e37.eu
 easyuri.com
 easyurl.net
 ecra.se
@@ -179,7 +175,6 @@ freze.it
 fur.ly
 fwd4.me
 fzy.co
-g00.me
 gg.gg
 git.io
 gl.am
@@ -216,7 +211,6 @@ hurl.ws
 hyperurl.co
 i-2.co
 i99.cz
-ibty.co
 icanhaz.com
 icit.fr
 ick.li
@@ -227,6 +221,7 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
+iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -249,7 +244,6 @@ kfd.pl
 ki.ms
 kissa.be
 kl.am
-klck.me
 korta.nu
 kr3w.de
 kratsi.cz
@@ -265,7 +259,6 @@ lcut.in
 l.gg
 libero.it
 lien.li
-lien.pl
 liip.to
 liltext.com
 lin.cr
@@ -285,10 +278,8 @@ lnk.gd
 lnk.in
 lnks.fr
 lnk.sk
-lnp.sn
 ln-s.net
 loopt.us
-lp25.fr
 lru.jp
 lt.tl
 lurl.no
@@ -308,7 +299,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
@@ -384,17 +374,14 @@ redirx.com
 redu.it
 ref.so
 relink.fr
-rickroll.it
 ri.ms
 riz.cz
-roflc.at
 rsmonkey.com
 rt.se
 rt.tc
 rubyurl.com
 s7y.us
 safe.mn
-sagyap.tk
 scrnch.me
 sdu.sk
 seeme.at
@@ -459,7 +446,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -491,7 +477,6 @@ tnij.org
 tny.cz
 tny.im
 to8.cc
-togoto.us
 tohle.de
 to.ly
 tota2.com
@@ -567,7 +552,6 @@ w1p.fr
 w3t.org
 waa.ai
 wapurl.co.uk
-wb1.eu
 web99.eu
 wed.li
 wideo.fr
@@ -602,7 +586,6 @@ xzb.cc
 y2u.be
 yagoa.fr
 y.ahoo.it
-yau.sh
 yeca.eu
 yect.com
 yep.it
