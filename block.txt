@@ -221,7 +221,6 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
-iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -322,7 +321,6 @@ ow.ly
 o-x.fr
 p6l.org
 para.pt
-parky.tv
 past.is
 pd.am
 pdh.co
@@ -446,6 +444,7 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
 sy.pe
 tabzi.com
 ta.gd
