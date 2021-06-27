@@ -87,6 +87,7 @@ blip.tv
 boi.re
 bote.me
 bougn.at
+boxsign.info
 br4.in
 brk.to
 brzu.net
@@ -299,6 +300,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -340,6 +342,7 @@ poprl.com
 po.st
 posted.at
 post.ly
+ppfr.it
 ppst.me
 ppt.cc
 ppt.li

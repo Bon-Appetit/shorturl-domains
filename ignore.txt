@@ -8,7 +8,6 @@ aqva.pl
 ares.tl
 au.ms
 bloat.me
-boxsign.info
 cachor.ro
 captur.in
 cf.ly
@@ -46,7 +45,6 @@ lnky.fr
 lnp.sn
 ln-s.ru
 lp25.fr
-more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -55,7 +53,6 @@ ou.gd
 parky.tv
 pgj.cc
 pnt.me
-ppfr.it
 pw2.ro
 reise.lc
 rickroll.it
