@@ -87,7 +87,6 @@ blip.tv
 boi.re
 bote.me
 bougn.at
-boxsign.info
 br4.in
 brk.to
 brzu.net
@@ -342,7 +341,6 @@ poprl.com
 po.st
 posted.at
 post.ly
-ppfr.it
 ppst.me
 ppt.cc
 ppt.li
@@ -457,6 +455,7 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com

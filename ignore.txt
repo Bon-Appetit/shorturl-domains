@@ -8,6 +8,7 @@ aqva.pl
 ares.tl
 au.ms
 bloat.me
+boxsign.info
 cachor.ro
 captur.in
 cf.ly
@@ -53,6 +54,7 @@ ou.gd
 parky.tv
 pgj.cc
 pnt.me
+ppfr.it
 pw2.ro
 reise.lc
 rickroll.it
@@ -64,7 +66,6 @@ sagyap.tk
 short.nr
 shy.si
 sux.cz
-teensy.co.nf
 thesa.us
 tiny123.com
 tinytw.it
