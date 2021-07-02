@@ -23,6 +23,7 @@
 3x.si
 4i.ae
 4url.cc
+5em.cz
 5url.net
 5z8.info
 6g6.eu
@@ -63,6 +64,7 @@ amzn.to
 a.nf
 anon.to
 any.gs
+aqva.pl
 asso.in
 atu.ca
 ayt.fr
@@ -84,6 +86,7 @@ bkite.com
 blap.net
 ble.pl
 blip.tv
+bloat.me
 boi.re
 bote.me
 bougn.at
@@ -99,6 +102,7 @@ burnurl.com
 buzurl.com
 bxl.me
 bzh.me
+captur.in
 catchylink.com
 cbs.so
 cbug.cc
@@ -107,6 +111,7 @@ ccj.im
 cektkp.com
 cf2.me
 cf6.co
+cf.ly
 chilp.it
 cjb.net
 clck.ru
@@ -142,6 +147,7 @@ dft.ba
 digbig.com
 digg.com
 doiop.com
+dolp.cc
 dopice.sk
 droid.ws
 dv.gd
@@ -153,8 +159,10 @@ easyurl.net
 ecra.se
 eepurl.com
 ely.re
+erax.cz
 erw.cz
 esyurl.com
+ewerl.com
 ex9.co
 ezurl.cc
 fave.co
@@ -182,6 +190,7 @@ go2cut.com
 go2l.ink
 go2.me
 go.9nl.com
+gog.li
 golinks.co
 good.ly
 goo.gl
@@ -190,6 +199,7 @@ gowat.ch
 grem.io
 gri.ms
 gurl.es
+hamns.net
 hec.su
 hellotxt.com
 hex.io
@@ -221,6 +231,7 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
+iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -243,6 +254,7 @@ kfd.pl
 ki.ms
 kissa.be
 kl.am
+klck.me
 korta.nu
 kr3w.de
 kratsi.cz
@@ -258,6 +270,7 @@ lcut.in
 l.gg
 libero.it
 lien.li
+lien.pl
 liip.to
 liltext.com
 lin.cr
@@ -266,8 +279,10 @@ linkbun.ch
 linkn.co
 linkshortener.org
 linkto.im
+linku.in
 link.zip.net
 liurl.cn
+l-k.be
 llu.ch
 lnk.co
 lnkd.in
@@ -275,6 +290,7 @@ lnk.direct
 lnked.in
 lnk.gd
 lnk.in
+lnk.ly
 lnks.fr
 lnk.sk
 ln-s.net
@@ -298,6 +314,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -321,9 +338,11 @@ ow.ly
 o-x.fr
 p6l.org
 para.pt
+parky.tv
 past.is
 pd.am
 pdh.co
+pgj.cc
 ph.dog
 ph.ly
 pic.gd
@@ -335,6 +354,7 @@ piurl.com
 plots.fr
 plu.sh
 pm.wu.cz
+pnt.me
 poprl.com
 po.st
 posted.at
@@ -371,7 +391,9 @@ redir.fr
 redirx.com
 redu.it
 ref.so
+reise.lc
 relink.fr
+rickroll.it
 ri.ms
 riz.cz
 rsmonkey.com
@@ -396,6 +418,7 @@ short.ie
 short.io
 shortlinks.co.uk
 shortna.me
+short.nr
 short.pk
 shortquik.com
 shortswitch.com
@@ -444,6 +467,8 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
+sux.cz
 sy.pe
 tabzi.com
 ta.gd
@@ -465,6 +490,8 @@ tiny.lt
 tiny.ms
 tiny.pl
 tiny.tw
+tinytw.it
+tinyuri.ca
 tinyurl.com
 tinyurl.hu
 tinyvid.io
@@ -491,7 +518,9 @@ turl.ca
 turo.us
 tweetburner.com
 tweez.me
+twet.fr
 twirl.at
+twit.ac
 twitterpan.com
 twitthis.com
 twiturl.de
@@ -501,6 +530,7 @@ twurl.nl
 tyn.ee
 u6e.de
 ub0.cc
+u.bb
 uby.es
 ucam.me
 ug.cz
@@ -529,8 +559,10 @@ urlx.ie
 urlx.org
 urlzen.com
 urlz.fr
+urub.us
 utfg.sk
 u.to
+valv.im
 vaza.me
 vbly.us
 vd55.com
@@ -611,4 +643,5 @@ zpag.es
 zsms.net
 zti.me
 zxq.net
+zzb.bz2ad.in
 zz.gd
