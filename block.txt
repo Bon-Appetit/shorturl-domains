@@ -23,6 +23,7 @@
 3x.si
 4i.ae
 4url.cc
+4view.me
 5url.net
 5z8.info
 6g6.eu
@@ -100,6 +101,7 @@ burnurl.com
 buzurl.com
 bxl.me
 bzh.me
+cachor.ro
 catchylink.com
 cbs.so
 cbug.cc
@@ -158,6 +160,7 @@ eepurl.com
 ely.re
 erw.cz
 esyurl.com
+ewerl.com
 ex9.co
 ezurl.cc
 fave.co
@@ -175,7 +178,6 @@ foe.hn
 folu.me
 fon.gs
 freze.it
-fun.ly
 fur.ly
 fwd4.me
 fzy.co
@@ -186,6 +188,7 @@ go2cut.com
 go2l.ink
 go2.me
 go.9nl.com
+gog.li
 golinks.co
 good.ly
 goo.gl
@@ -194,7 +197,6 @@ gowat.ch
 grem.io
 gri.ms
 gurl.es
-hamns.net
 hec.su
 hellotxt.com
 hex.io
@@ -226,7 +228,6 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
-iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -252,6 +253,7 @@ kl.am
 klck.me
 korta.nu
 kr3w.de
+krat.si
 kratsi.cz
 krod.cz
 krunchd.com
@@ -273,9 +275,9 @@ linkbun.ch
 linkn.co
 linkshortener.org
 linkto.im
-linku.in
 link.zip.net
 liurl.cn
+l-k.be
 llu.ch
 lnk.co
 lnkd.in
@@ -283,13 +285,11 @@ lnk.direct
 lnked.in
 lnk.gd
 lnk.in
-lnk.ly
 lnks.fr
 lnk.sk
-lnky.fr
-lnp.sn
 ln-s.net
 loopt.us
+lp25.fr
 lru.jp
 lt.tl
 lurl.no
@@ -309,6 +309,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -332,7 +333,6 @@ ow.ly
 o-x.fr
 p6l.org
 para.pt
-parky.tv
 past.is
 pd.am
 pdh.co
@@ -347,7 +347,6 @@ piurl.com
 plots.fr
 plu.sh
 pm.wu.cz
-pnt.me
 poprl.com
 po.st
 posted.at
@@ -385,10 +384,8 @@ redirx.com
 redu.it
 ref.so
 relink.fr
-rickroll.it
 ri.ms
 riz.cz
-roflc.at
 rsmonkey.com
 rt.se
 rt.tc
@@ -458,6 +455,8 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
+sux.cz
 sy.pe
 tabzi.com
 ta.gd
@@ -479,7 +478,7 @@ tiny.lt
 tiny.ms
 tiny.pl
 tiny.tw
-tinytw.it
+tinyuri.ca
 tinyurl.com
 tinyurl.hu
 tinyvid.io
@@ -497,7 +496,6 @@ tpmr.com
 tr5.in
 traceurl.com
 trck.me
-trflk.cc
 trick.ly
 tr.im
 trkr.ws
@@ -507,7 +505,6 @@ turl.ca
 turo.us
 tweetburner.com
 tweez.me
-twet.fr
 twirl.at
 twitterpan.com
 twitthis.com
@@ -523,6 +520,7 @@ ucam.me
 ug.cz
 ulmt.in
 u.mavrev.com
+unlc.us
 u.nu
 updating.me
 upzat.com
@@ -538,7 +536,6 @@ urlenco.de
 urlhawk.com
 url.ie
 urlin.it
-urlkiss.com
 urlkr.com
 urlot.com
 urlpire.com
@@ -549,7 +546,6 @@ urlzen.com
 urlz.fr
 utfg.sk
 u.to
-v5.gd
 vaza.me
 vbly.us
 vd55.com
@@ -569,10 +565,10 @@ w1p.fr
 w3t.org
 waa.ai
 wapurl.co.uk
+wb1.eu
 web99.eu
 wed.li
 wideo.fr
-wif.red
 wipi.es
 wp.me
 wtc.la
