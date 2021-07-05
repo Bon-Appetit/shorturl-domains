@@ -23,9 +23,9 @@
 3x.si
 4i.ae
 4url.cc
-4view.me
 5url.net
 5z8.info
+6fr.ru
 6g6.eu
 6url.com
 77.ai
@@ -64,7 +64,6 @@ amzn.to
 a.nf
 anon.to
 any.gs
-aqva.pl
 asso.in
 atu.ca
 ayt.fr
@@ -101,7 +100,6 @@ burnurl.com
 buzurl.com
 bxl.me
 bzh.me
-cachor.ro
 catchylink.com
 cbs.so
 cbug.cc
@@ -134,7 +132,6 @@ cutu.me
 cuturl.com
 cybr.fr
 cyonix.to
-d75.eu
 daa.pl
 dai.ly
 db.tt
@@ -153,6 +150,7 @@ dv.gd
 dwarfurl.com
 dy.fi
 dyo.gs
+e37.eu
 easyuri.com
 easyurl.net
 ecra.se
@@ -160,7 +158,6 @@ eepurl.com
 ely.re
 erw.cz
 esyurl.com
-ewerl.com
 ex9.co
 ezurl.cc
 fave.co
@@ -253,7 +250,6 @@ kl.am
 klck.me
 korta.nu
 kr3w.de
-krat.si
 kratsi.cz
 krod.cz
 krunchd.com
@@ -289,7 +285,6 @@ lnks.fr
 lnk.sk
 ln-s.net
 loopt.us
-lp25.fr
 lru.jp
 lt.tl
 lurl.no
@@ -408,6 +403,7 @@ short.ie
 short.io
 shortlinks.co.uk
 shortna.me
+short.nr
 short.pk
 shortswitch.com
 short.to
@@ -455,7 +451,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 sux.cz
 sy.pe
 tabzi.com
@@ -478,10 +473,10 @@ tiny.lt
 tiny.ms
 tiny.pl
 tiny.tw
-tinyuri.ca
 tinyurl.com
 tinyurl.hu
 tinyvid.io
+tixsu.com
 tldrify.com
 tldr.sk
 tllg.net
@@ -520,7 +515,6 @@ ucam.me
 ug.cz
 ulmt.in
 u.mavrev.com
-unlc.us
 u.nu
 updating.me
 upzat.com
@@ -565,7 +559,6 @@ w1p.fr
 w3t.org
 waa.ai
 wapurl.co.uk
-wb1.eu
 web99.eu
 wed.li
 wideo.fr
