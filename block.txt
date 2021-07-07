@@ -23,12 +23,10 @@
 3x.si
 4i.ae
 4url.cc
-5em.cz
 5url.net
 5z8.info
 6g6.eu
 6url.com
-76.gd
 77.ai
 7fth.cc
 7li.in
@@ -65,7 +63,6 @@ amzn.to
 a.nf
 anon.to
 any.gs
-aqva.pl
 asso.in
 atu.ca
 ayt.fr
@@ -110,6 +107,7 @@ ccj.im
 cektkp.com
 cf2.me
 cf6.co
+cf.ly
 chilp.it
 cjb.net
 clck.ru
@@ -121,6 +119,7 @@ c-o.in
 coinurl.com
 cort.as
 couic.fr
+cr.tl
 curl.im
 cur.lv
 cut.by
@@ -145,6 +144,7 @@ dft.ba
 digbig.com
 digg.com
 doiop.com
+dolp.cc
 dopice.sk
 droid.ws
 dv.gd
@@ -175,11 +175,9 @@ foe.hn
 folu.me
 fon.gs
 freze.it
-fun.ly
 fur.ly
 fwd4.me
 fzy.co
-g00.me
 gg.gg
 git.io
 gl.am
@@ -226,7 +224,6 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
-iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -268,9 +265,9 @@ lien.li
 liip.to
 liltext.com
 lin.cr
+lin.io
 linkbee.com
 linkbun.ch
-linkfollowservice.com
 linkn.co
 linkshortener.org
 linkto.im
@@ -286,9 +283,9 @@ lnk.gd
 lnk.in
 lnks.fr
 lnk.sk
-lnky.fr
 ln-s.net
 loopt.us
+lp25.fr
 lru.jp
 lt.tl
 lvvk.com
@@ -307,6 +304,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -321,7 +319,6 @@ notlong.com
 nov.io
 nq.st
 nsfw.in
-nxto.be
 nxy.in
 okok.fr
 om.ly
@@ -349,7 +346,6 @@ poprl.com
 po.st
 posted.at
 post.ly
-ppfr.it
 ppst.me
 ppt.cc
 ppt.li
@@ -407,8 +403,6 @@ short.ie
 short.io
 shortlinks.co.uk
 shortna.me
-short.nr
-short.pk
 shortswitch.com
 short.to
 shorturl.com
@@ -464,11 +458,13 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
 tini.cc
 tin.li
+tiny123.com
 tinyarro.ws
 tinyarrows.com
 tiny.cc
@@ -486,7 +482,6 @@ tnij.org
 tny.cz
 tny.im
 to8.cc
-togoto.us
 tohle.de
 to.ly
 tota2.com
@@ -543,7 +538,6 @@ urlzen.com
 urlz.fr
 utfg.sk
 u.to
-valv.im
 vaza.me
 vbly.us
 vd55.com
@@ -554,7 +548,6 @@ v.ht
 virl.com
 vl.am
 vov.li
-vsll.eu
 vt802.us
 vurl.com
 vur.me
@@ -567,7 +560,6 @@ wapurl.co.uk
 web99.eu
 wed.li
 wideo.fr
-wif.red
 wipi.es
 wp.me
 wtc.la
@@ -604,6 +596,7 @@ yect.com
 yep.it
 yfrog.com
 yogh.me
+yon.ir
 youfap.me
 yourls.org
 youtu.be
