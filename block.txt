@@ -107,7 +107,6 @@ ccj.im
 cektkp.com
 cf2.me
 cf6.co
-cf.ly
 chilp.it
 cjb.net
 clck.ru
@@ -119,7 +118,6 @@ c-o.in
 coinurl.com
 cort.as
 couic.fr
-cr.tl
 curl.im
 cur.lv
 cut.by
@@ -144,7 +142,6 @@ dft.ba
 digbig.com
 digg.com
 doiop.com
-dolp.cc
 dopice.sk
 droid.ws
 dv.gd
@@ -265,7 +262,6 @@ lien.li
 liip.to
 liltext.com
 lin.cr
-lin.io
 linkbee.com
 linkbun.ch
 linkn.co
@@ -285,7 +281,6 @@ lnks.fr
 lnk.sk
 ln-s.net
 loopt.us
-lp25.fr
 lru.jp
 lt.tl
 lvvk.com
@@ -449,7 +444,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -458,7 +452,6 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -596,7 +589,6 @@ yect.com
 yep.it
 yfrog.com
 yogh.me
-yon.ir
 youfap.me
 yourls.org
 youtu.be
