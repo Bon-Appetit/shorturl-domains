@@ -31,7 +31,6 @@ hamns.net
 hrf.re
 ibty.co
 id.tl
-iplogger.com
 jieb.be
 krat.si
 lick.my
@@ -67,9 +66,7 @@ short.nr
 short.pk
 shortquik.com
 shy.si
-surl.me
 sux.cz
-teensy.co.nf
 thesa.us
 tinytw.it
 tinyuri.ca
