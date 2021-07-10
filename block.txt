@@ -65,6 +65,7 @@ anon.to
 any.gs
 asso.in
 atu.ca
+au.ms
 ayt.fr
 azali.fr
 b00.fr
@@ -84,6 +85,7 @@ bkite.com
 blap.net
 ble.pl
 blip.tv
+bloat.me
 boi.re
 bote.me
 bougn.at
@@ -118,6 +120,7 @@ c-o.in
 coinurl.com
 cort.as
 couic.fr
+cudder.it
 curl.im
 cur.lv
 cut.by
@@ -175,6 +178,7 @@ freze.it
 fur.ly
 fwd4.me
 fzy.co
+g00.me
 gg.gg
 git.io
 gl.am
@@ -190,6 +194,7 @@ gowat.ch
 grem.io
 gri.ms
 gurl.es
+hamns.net
 hec.su
 hellotxt.com
 hex.io
@@ -211,6 +216,7 @@ hurl.ws
 hyperurl.co
 i-2.co
 i99.cz
+ibty.co
 icanhaz.com
 icit.fr
 ick.li
@@ -265,6 +271,7 @@ liltext.com
 lin.cr
 linkbee.com
 linkbun.ch
+linkfollowservice.com
 linkn.co
 linkshortener.org
 linkto.im
@@ -280,6 +287,7 @@ lnk.gd
 lnk.in
 lnks.fr
 lnk.sk
+lnp.sn
 ln-s.net
 loopt.us
 lru.jp
@@ -377,10 +385,12 @@ ref.so
 relink.fr
 ri.ms
 riz.cz
+roflc.at
 rsmonkey.com
 rt.se
 rt.tc
 rubyurl.com
+ru.ly
 s7y.us
 safe.mn
 scrnch.me
@@ -399,6 +409,7 @@ short.ie
 short.io
 shortlinks.co.uk
 shortna.me
+shortquik.com
 shortswitch.com
 short.to
 shorturl.com
@@ -446,6 +457,7 @@ sturly.com
 su.pr
 s-url.fr
 surl.me
+sux.cz
 sy.pe
 tabzi.com
 ta.gd
@@ -454,7 +466,6 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -471,6 +482,7 @@ tiny.tw
 tinyurl.com
 tinyurl.hu
 tinyvid.io
+tixsu.com
 tldrify.com
 tldr.sk
 tllg.net
@@ -534,6 +546,7 @@ urlzen.com
 urlz.fr
 utfg.sk
 u.to
+valv.im
 vaza.me
 vbly.us
 vd55.com
@@ -586,6 +599,7 @@ xurls.co
 xzb.cc
 y2u.be
 yagoa.fr
+yagoa.me
 y.ahoo.it
 yeca.eu
 yect.com
