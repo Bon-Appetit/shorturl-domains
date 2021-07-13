@@ -66,7 +66,6 @@ short.nr
 short.pk
 shortquik.com
 shy.si
-surl.me
 sux.cz
 teensy.co.nf
 thesa.us
