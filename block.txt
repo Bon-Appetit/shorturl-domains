@@ -445,7 +445,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -454,6 +453,7 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -520,7 +520,6 @@ urlbrief.com
 urlcover.com
 urlcut.com
 urlenco.de
-urlhawk.com
 url.ie
 urlin.it
 urlkr.com
@@ -544,7 +543,6 @@ virl.com
 vl.am
 vov.li
 vt802.us
-vurl.com
 vur.me
 vv.vg
 vzturl.com
