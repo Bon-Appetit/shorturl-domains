@@ -7,7 +7,6 @@ alil.in
 aqva.pl
 ares.tl
 au.ms
-bloat.me
 boxsign.info
 cachor.ro
 captur.in
@@ -37,6 +36,7 @@ lick.my
 lien.pl
 lin.io
 linkfollowservice.com
+linkn.co
 linksrtnr.com
 linku.in
 lnk.ly
@@ -66,7 +66,6 @@ short.nr
 short.pk
 shortquik.com
 shy.si
-surl.me
 sux.cz
 thesa.us
 tinytw.it
@@ -87,7 +86,6 @@ v5.gd
 vaaa.fr
 valv.im
 vsll.eu
-vurl.com
 wb1.eu
 webredirect.click
 webrefer.cc

@@ -84,6 +84,7 @@ bkite.com
 blap.net
 ble.pl
 blip.tv
+bloat.me
 boi.re
 bote.me
 bougn.at
@@ -265,7 +266,6 @@ liltext.com
 lin.cr
 linkbee.com
 linkbun.ch
-linkn.co
 linkshortener.org
 linkto.im
 link.zip.net
@@ -445,6 +445,7 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -543,6 +544,7 @@ virl.com
 vl.am
 vov.li
 vt802.us
+vurl.com
 vur.me
 vv.vg
 vzturl.com
