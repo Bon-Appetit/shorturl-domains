@@ -266,6 +266,7 @@ liltext.com
 lin.cr
 linkbee.com
 linkbun.ch
+linkn.co
 linkshortener.org
 linkto.im
 link.zip.net
