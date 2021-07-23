@@ -222,7 +222,6 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
-iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -301,7 +300,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
@@ -446,6 +444,7 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -478,6 +477,7 @@ tnij.org
 tny.cz
 tny.im
 to8.cc
+togoto.us
 tohle.de
 to.ly
 tota2.com
@@ -504,6 +504,7 @@ twurl.nl
 tyn.ee
 u6e.de
 ub0.cc
+u.bb
 uby.es
 ucam.me
 ug.cz
