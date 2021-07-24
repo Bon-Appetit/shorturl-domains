@@ -23,6 +23,7 @@
 3x.si
 4i.ae
 4url.cc
+4view.me
 5url.net
 5z8.info
 6g6.eu
@@ -63,6 +64,7 @@ amzn.to
 a.nf
 anon.to
 any.gs
+ares.tl
 asso.in
 atu.ca
 ayt.fr
@@ -100,6 +102,7 @@ burnurl.com
 buzurl.com
 bxl.me
 bzh.me
+cachor.ro
 catchylink.com
 cbs.so
 cbug.cc
@@ -119,6 +122,8 @@ c-o.in
 coinurl.com
 cort.as
 couic.fr
+cr.tl
+cudder.it
 curl.im
 cur.lv
 cut.by
@@ -173,6 +178,7 @@ foe.hn
 folu.me
 fon.gs
 freze.it
+fun.ly
 fur.ly
 fwd4.me
 fzy.co
@@ -191,6 +197,7 @@ gowat.ch
 grem.io
 gri.ms
 gurl.es
+hadej.co
 hec.su
 hellotxt.com
 hex.io
@@ -222,6 +229,7 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
+iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -232,6 +240,7 @@ ity.im
 ix.sk
 jdem.cz
 j.gs
+jieb.be
 jijr.com
 j.mp
 jmp2.net
@@ -300,6 +309,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -318,14 +328,17 @@ nxy.in
 okok.fr
 om.ly
 oua.be
+ou.af
 ouo.io
 ow.ly
 o-x.fr
 p6l.org
 para.pt
+parky.tv
 past.is
 pd.am
 pdh.co
+pgj.cc
 ph.dog
 ph.ly
 pic.gd
@@ -341,6 +354,7 @@ poprl.com
 po.st
 posted.at
 post.ly
+ppfr.it
 ppst.me
 ppt.cc
 ppt.li
@@ -350,6 +364,7 @@ prettylinkpro.com
 profile.to
 ptab.it
 ptm.ro
+pw2.ro
 py6.ru
 qbn.ru
 q.gs
@@ -398,6 +413,7 @@ short.ie
 short.io
 shortlinks.co.uk
 shortna.me
+shortquik.com
 shortswitch.com
 short.to
 shorturl.com
@@ -444,7 +460,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -477,7 +492,6 @@ tnij.org
 tny.cz
 tny.im
 to8.cc
-togoto.us
 tohle.de
 to.ly
 tota2.com
@@ -495,6 +509,7 @@ turo.us
 tweetburner.com
 tweez.me
 twirl.at
+twit.ac
 twitterpan.com
 twitthis.com
 twiturl.de
@@ -544,6 +559,7 @@ v.ht
 virl.com
 vl.am
 vov.li
+vsll.eu
 vt802.us
 vurl.com
 vur.me
