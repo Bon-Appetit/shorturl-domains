@@ -159,7 +159,6 @@ esyurl.com
 ex9.co
 ezurl.cc
 fave.co
-fff.re
 fff.to
 fff.wf
 ff.im
@@ -223,7 +222,6 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
-iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -234,7 +232,6 @@ ity.im
 ix.sk
 jdem.cz
 j.gs
-jieb.be
 jijr.com
 j.mp
 jmp2.net
@@ -285,7 +282,6 @@ lnks.fr
 lnk.sk
 ln-s.net
 loopt.us
-lp25.fr
 lru.jp
 lt.tl
 lvvk.com
@@ -304,6 +300,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -402,7 +399,6 @@ short.ie
 short.io
 shortlinks.co.uk
 shortna.me
-short.nr
 shortswitch.com
 short.to
 shorturl.com
@@ -449,6 +445,7 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -457,6 +454,7 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -511,7 +509,6 @@ ucam.me
 ug.cz
 ulmt.in
 u.mavrev.com
-unlc.us
 u.nu
 updating.me
 upzat.com
