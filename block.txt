@@ -300,7 +300,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
@@ -408,7 +407,6 @@ shrinkify.com
 shrinkster.com
 shrinkurl.in
 shrten.com
-shrt.in
 shrt.st
 shrunkin.com
 sh.st
@@ -445,7 +443,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 sy.pe
 tabzi.com
 ta.gd

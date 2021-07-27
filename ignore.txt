@@ -45,6 +45,7 @@ lnp.sn
 ln-s.ru
 lp25.fr
 lurl.no
+more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -65,7 +66,9 @@ sagyap.tk
 short.nr
 short.pk
 shortquik.com
+shrt.in
 shy.si
+surl.me
 sux.cz
 thesa.us
 tinytw.it
