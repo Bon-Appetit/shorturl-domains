@@ -66,7 +66,6 @@ short.pk
 shortquik.com
 shrt.in
 shy.si
-surl.me
 sux.cz
 thesa.us
 tinytw.it
@@ -92,7 +91,6 @@ webredirect.click
 webrefer.cc
 wif.red
 xlinkz.info
-xt3.me
 yagoa.me
 yau.sh
 yon.ir
