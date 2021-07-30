@@ -86,7 +86,6 @@ ble.pl
 blip.tv
 bloat.me
 boi.re
-bote.me
 bougn.at
 br4.in
 brk.to
@@ -176,6 +175,7 @@ freze.it
 fur.ly
 fwd4.me
 fzy.co
+g00.me
 gg.gg
 git.io
 gl.am
@@ -222,7 +222,6 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
-iplogger.com
 iplogger.org
 iscool.net
 is.gd
