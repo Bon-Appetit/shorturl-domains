@@ -22,6 +22,7 @@ ewerl.com
 fff.re
 fnk.es
 fun.ly
+g00.me
 gog.li
 goo.lu
 guiama.is
@@ -45,6 +46,7 @@ lnp.sn
 ln-s.ru
 lp25.fr
 lurl.no
+more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -67,6 +69,7 @@ short.pk
 shortquik.com
 shrt.in
 shy.si
+surl.me
 sux.cz
 thesa.us
 tinytw.it
@@ -79,6 +82,7 @@ twi.im
 twit.ac
 u.bb
 unlc.us
+u.nu
 url.co.uk
 urlhawk.com
 urlkiss.com
@@ -92,6 +96,7 @@ webredirect.click
 webrefer.cc
 wif.red
 xlinkz.info
+xurl.jp
 yagoa.me
 yau.sh
 yon.ir
