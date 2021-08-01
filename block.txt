@@ -221,6 +221,7 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
+iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -299,6 +300,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -442,6 +444,7 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -505,9 +508,9 @@ ucam.me
 ug.cz
 ulmt.in
 u.mavrev.com
+u.nu
 updating.me
 upzat.com
-ur1.ca
 url2.fr
 url4.eu
 url5.org
