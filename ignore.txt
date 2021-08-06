@@ -31,6 +31,7 @@ hamns.net
 hrf.re
 ibty.co
 id.tl
+iplogger.com
 jieb.be
 krat.si
 lick.my
@@ -58,7 +59,6 @@ pw2.ro
 reise.lc
 rickroll.it
 riz.gd
-rod.gs
 roflc.at
 ru.ly
 sagyap.tk

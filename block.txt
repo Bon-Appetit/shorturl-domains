@@ -221,7 +221,6 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
-iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -377,6 +376,7 @@ ref.so
 relink.fr
 ri.ms
 riz.cz
+rod.gs
 rsmonkey.com
 rt.se
 rt.tc
