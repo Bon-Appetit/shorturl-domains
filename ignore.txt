@@ -31,7 +31,6 @@ hamns.net
 hrf.re
 ibty.co
 id.tl
-iplogger.com
 jieb.be
 krat.si
 lick.my
@@ -80,6 +79,7 @@ twi.im
 twit.ac
 u.bb
 unlc.us
+u.nu
 ur1.ca
 url.co.uk
 urlhawk.com

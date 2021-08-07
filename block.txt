@@ -221,6 +221,7 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
+iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -507,7 +508,6 @@ ucam.me
 ug.cz
 ulmt.in
 u.mavrev.com
-u.nu
 updating.me
 upzat.com
 url2.fr
