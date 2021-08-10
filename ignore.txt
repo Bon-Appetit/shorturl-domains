@@ -7,6 +7,7 @@ alil.in
 aqva.pl
 ares.tl
 au.ms
+azali.fr
 bote.me
 boxsign.info
 cachor.ro
@@ -55,6 +56,7 @@ pgj.cc
 pnt.me
 ppfr.it
 pw2.ro
+py6.ru
 reise.lc
 rickroll.it
 riz.gd
@@ -66,9 +68,7 @@ short.pk
 shortquik.com
 shrt.in
 shy.si
-surl.me
 sux.cz
-teensy.co.nf
 thesa.us
 tinytw.it
 tinyuri.ca

@@ -66,7 +66,6 @@ any.gs
 asso.in
 atu.ca
 ayt.fr
-azali.fr
 b00.fr
 b23.ru
 b54.in
@@ -351,7 +350,6 @@ prettylinkpro.com
 profile.to
 ptab.it
 ptm.ro
-py6.ru
 qbn.ru
 q.gs
 qicute.com
@@ -445,6 +443,7 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
+surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -453,6 +452,7 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
