@@ -350,6 +350,7 @@ prettylinkpro.com
 profile.to
 ptab.it
 ptm.ro
+py6.ru
 qbn.ru
 q.gs
 qicute.com
@@ -443,7 +444,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -507,6 +507,7 @@ ucam.me
 ug.cz
 ulmt.in
 u.mavrev.com
+u.nu
 updating.me
 upzat.com
 url2.fr

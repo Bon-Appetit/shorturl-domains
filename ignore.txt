@@ -56,7 +56,6 @@ pgj.cc
 pnt.me
 ppfr.it
 pw2.ro
-py6.ru
 reise.lc
 rickroll.it
 riz.gd
@@ -68,6 +67,7 @@ short.pk
 shortquik.com
 shrt.in
 shy.si
+surl.me
 sux.cz
 thesa.us
 tinytw.it
@@ -80,7 +80,6 @@ twi.im
 twit.ac
 u.bb
 unlc.us
-u.nu
 ur1.ca
 url.co.uk
 urlhawk.com
