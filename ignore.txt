@@ -67,8 +67,8 @@ short.pk
 shortquik.com
 shrt.in
 shy.si
-surl.me
 sux.cz
+teensy.co.nf
 thesa.us
 tinytw.it
 tinyuri.ca
@@ -80,6 +80,7 @@ twi.im
 twit.ac
 u.bb
 unlc.us
+u.nu
 ur1.ca
 url.co.uk
 urlhawk.com
