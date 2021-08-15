@@ -415,7 +415,6 @@ sicax.net
 s.id
 simurl.com
 sina.lt
-sk.gy
 skroc.pl
 skr.sk
 slink.co
@@ -443,7 +442,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -452,7 +450,6 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
-teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -507,6 +504,7 @@ ucam.me
 ug.cz
 ulmt.in
 u.mavrev.com
+u.nu
 updating.me
 upzat.com
 url2.fr
