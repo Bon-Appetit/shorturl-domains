@@ -220,7 +220,6 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
-iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -452,6 +451,7 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -506,7 +506,6 @@ ucam.me
 ug.cz
 ulmt.in
 u.mavrev.com
-u.nu
 updating.me
 upzat.com
 url2.fr
