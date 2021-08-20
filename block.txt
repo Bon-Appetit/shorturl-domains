@@ -34,7 +34,6 @@
 7vd.cn
 8u.cz
 944.la
-98.to
 a0.fr
 a2a.me
 abbrr.com
@@ -220,6 +219,7 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
+iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -298,7 +298,6 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
-more.sh
 murl.com
 myurl.in
 ne1.net
@@ -506,6 +505,7 @@ ucam.me
 ug.cz
 ulmt.in
 u.mavrev.com
+u.nu
 updating.me
 upzat.com
 url2.fr
@@ -516,6 +516,7 @@ urlbrief.com
 urlcover.com
 urlcut.com
 urlenco.de
+urlhawk.com
 url.ie
 urlin.it
 urlkr.com
