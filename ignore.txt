@@ -47,6 +47,7 @@ lnp.sn
 ln-s.ru
 lp25.fr
 lurl.no
+more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -84,6 +85,7 @@ unlc.us
 ur1.ca
 url.co.uk
 urlkiss.com
+urlzen.com
 urub.us
 v5.gd
 vaaa.fr
