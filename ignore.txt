@@ -71,6 +71,7 @@ shrt.in
 shy.si
 sk.gy
 sux.cz
+teensy.co.nf
 thesa.us
 tinytw.it
 tinyuri.ca
