@@ -298,6 +298,7 @@ miniurl.com
 minu.me
 minurl.fr
 moourl.com
+more.sh
 murl.com
 myurl.in
 ne1.net
@@ -441,7 +442,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -450,6 +450,7 @@ t.cn
 t.co
 tcrn.ch
 tdjt.cz
+teensy.co.nf
 thinfi.com
 thrdl.es
 tighturl.com
@@ -504,7 +505,6 @@ ucam.me
 ug.cz
 ulmt.in
 u.mavrev.com
-u.nu
 updating.me
 upzat.com
 url2.fr
