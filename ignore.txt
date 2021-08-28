@@ -48,6 +48,7 @@ lnp.sn
 ln-s.ru
 lp25.fr
 lurl.no
+more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -71,6 +72,7 @@ shrt.in
 shy.si
 sk.gy
 sux.cz
+teensy.co.nf
 thesa.us
 tinytw.it
 tinyuri.ca
@@ -95,6 +97,7 @@ wb1.eu
 webredirect.click
 webrefer.cc
 wif.red
+wipi.es
 xav.cc
 xlinkz.info
 xurl.jp
