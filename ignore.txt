@@ -33,7 +33,6 @@ hamns.net
 hrf.re
 ibty.co
 id.tl
-iplogger.com
 jieb.be
 krat.si
 lick.my
@@ -48,7 +47,6 @@ lnp.sn
 ln-s.ru
 lp25.fr
 lurl.no
-more.sh
 mut.lu
 nn.nf
 nxto.be
@@ -72,7 +70,6 @@ shrt.in
 shy.si
 sk.gy
 sux.cz
-teensy.co.nf
 thesa.us
 tinytw.it
 tinyuri.ca
@@ -84,6 +81,7 @@ twi.im
 twit.ac
 u.bb
 unlc.us
+u.nu
 ur1.ca
 url.co.uk
 urlkiss.com
