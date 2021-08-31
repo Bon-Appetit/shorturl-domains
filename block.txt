@@ -219,6 +219,7 @@ iky.fr
 ilix.in
 info.ms
 inreply.to
+iplogger.com
 iplogger.org
 iscool.net
 is.gd
@@ -405,6 +406,7 @@ shrinkify.com
 shrinkster.com
 shrinkurl.in
 shrten.com
+shrt.in
 shrt.st
 shrunkin.com
 sh.st
@@ -440,7 +442,6 @@ starturl.com
 sturly.com
 su.pr
 s-url.fr
-surl.me
 sy.pe
 tabzi.com
 ta.gd
@@ -504,6 +505,7 @@ ucam.me
 ug.cz
 ulmt.in
 u.mavrev.com
+u.nu
 updating.me
 upzat.com
 url2.fr
@@ -572,7 +574,6 @@ xt3.me
 xtu.me
 xua.me
 xub.me
-xurls.co
 xzb.cc
 y2u.be
 yagoa.fr

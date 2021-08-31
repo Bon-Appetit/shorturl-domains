@@ -33,7 +33,6 @@ hamns.net
 hrf.re
 ibty.co
 id.tl
-iplogger.com
 jieb.be
 krat.si
 lick.my
@@ -68,9 +67,9 @@ sagyap.tk
 short.nr
 short.pk
 shortquik.com
-shrt.in
 shy.si
 sk.gy
+surl.me
 sux.cz
 thesa.us
 tinytw.it
@@ -83,7 +82,6 @@ twi.im
 twit.ac
 u.bb
 unlc.us
-u.nu
 ur1.ca
 url.co.uk
 urlkiss.com
@@ -101,6 +99,7 @@ wipi.es
 xav.cc
 xlinkz.info
 xurl.jp
+xurls.co
 yagoa.me
 yau.sh
 yon.ir
