@@ -27,5 +27,5 @@ Please help improving this list by adding or removing sources. Send a pull reque
 ### Add / Remove a single domain
 This repository only makes use of sources which already exist. To add or remove a domain, please reach out to the corresponding maintainer of the list. On the next update the domain will then be added or removed here as well.
 
-### Whitelist domain
+### Exclude a domain
 First try to contact the maintainer of the source which has the domain included. If they do not respond, please create an issue ticket here.
