@@ -1,25 +1,31 @@
-**Starting from 1st September, 2021 there won't be any further DNS checks anymore. A small virtual server was in place for this but it's getting too expensive now.**
-
----
-
 # Short URL Domains
-This list is a collection of bunch of domains that are used for short urls like bit.ly.
+This repository is a compilation of domains which are used for shortlink-services like bitly. Instead of creating yet another list of domains we make use of the awesome work by others and combine it all into one list.
 
-## ![#ff0000](https://placehold.co/15/ff0000/ff0000) PLEASE NOTICE:
-There have been a lot of effort put into this repository to make sure the domains are all valid. Also the DNS checks are run with caution to make sure to avoid false results as much as possible. But keep in mind that things change so quickly. **THERE IS NO WARRANTY GIVEN THAT THESE LISTS ARE 100% ACCURATE. USE THEM AT YOUR OWN RISK, ESPECIALLY IN PRODUCTION.**
+## ![#ff0000](https://placehold.co/15/ff0000/ff0000) PLEASE READ:
+There have been a lot of effort put into this repository to make sure the domains are all valid. Also the DNS checks are run with caution to make sure to avoid false results as much as possible. But keep in mind that things change quickly. **THERE IS NO WARRANTY GIVEN THAT THE LIST IS 100% ACCURATE. PLEASE USE IT CAREFULLY, ESPECIALLY IN PRODUCTION.**
 
-### block.txt
-Contains all domains which are used for short urls. Domains from ignore.txt and white.txt are removed from here.
+| File                   | Description                                                      |
+|:-----------------------|:-----------------------------------------------------------------|
+| ~/domains.txt          | This is a combined list of all valid domains from the sources.   |
+| ~/domains_sources.txt  | Sources to be used for the domains listed line-by-line.          |
+| ~/excludes.txt         | Domains which should be excluded from appearing in the list.     |
+| ~/excludes_sources.txt | Sources used for the excluded domains, also listed line-by-line. |
 
-### ignore.txt
-A list of domains which have been tested for their availability. Those domains are no longer registered or do not have any valid DNS records which also makes them unable to access.
+## Workflow: The way it works
+A background script downloads the content of all sources from here and combines them into one list. While doing so all duplicates and invalid domains will be removed to increase the quality of the list. Later on a DNS check is run on each domain to make sure it is reachable ("online").
 
-### white.txt
-Here you can find domains which are false listed or whose content has changed.
+**What are invalid domains?**
+Domains, that...
+- are not in the expected format
+- have invalid characters in their name
+- have extensions which do not exist
+- have no DNS records (A/AAAA)
 
-#### Something's missing?
-Please let me know if there is a domain missing. You can either submit it via an issue ticket or pull request. Please note that only official top level domains will be supported which can be found here: https://www.icann.org/resources/pages/tlds-2012-02-25-en
+## Contribute: Help to maintain the list
+Please help improving this list by adding or removing sources. Send a pull request or create an issue ticket for that.
 
-Feel free to also report domains which are no longer used for short url.
+### Add / Remove a single domain
+This repository only makes use of sources which already exist. To add or remove a domain, please reach out to the corresponding maintainer of the list. On the next update the domain will then be added or removed here as well.
 
-Thank you!
+### Whitelist domain
+First try to contact the maintainer of the source which has the domain included. If they do not respond, please create an issue ticket here.
