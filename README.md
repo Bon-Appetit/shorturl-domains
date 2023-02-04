@@ -16,10 +16,11 @@ A background script downloads the content of all sources from here and combines 
 
 **What are invalid domains?**
 Domains, that...
-- are not in the expected format
-- have invalid characters in their name
+- do not follow RFC 1034
+    - Not in expected format
+    - Invalid characters
 - have extensions which do not exist
-- have no DNS records (A/AAAA)
+- have no DNS records (A/AAAA/MX)
 
 ## Contribute: Help to maintain the list
 Please help improving this list by adding or removing sources. Send a pull request or create an issue ticket for that.
