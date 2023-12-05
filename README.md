@@ -1,3 +1,5 @@
+![Version Alpha](https://img.shields.io/badge/version-alpha-blue?style=for-the-badge) ![Repo Size](https://img.shields.io/github/repo-size/Bon-Appetit/porn-domains?style=for-the-badge&logo=github&label=Repo%20Size)
+
 # Short URL Domains
 This repository is a compilation of domains which are used for shortlink-services like bitly. Instead of creating yet another list of domains we make use of the awesome work by others and combine it all into one list.
 
