@@ -1,34 +1,45 @@
+**Beginning September 1st, 2021, there will be no more DNS checks. A small VPS was used for this, but it has now become too expensive.**
+
+---
+
 ![Version Alpha](https://img.shields.io/badge/version-alpha-blue?style=for-the-badge) ![Repo Size](https://img.shields.io/github/repo-size/Bon-Appetit/shorturl-domains?style=for-the-badge&logo=github&label=Repo%20Size)
 
 # Short URL Domains
-This repository is a compilation of domains which are used for shortlink-services like bitly. Instead of creating yet another list of domains we make use of the awesome work by others and combine it all into one list.
+This collection brings together domains used in shortlink services, similar to bitly. Rather than crafting a new list, we leverage the excellent work of others and consolidate everything into a single list.
 
-## ![#ff0000](https://placehold.co/15/ff0000/ff0000) PLEASE READ:
-There have been a lot of effort put into this repository to make sure the domains are all valid. Also the DNS checks are run with caution to make sure to avoid false results as much as possible. But keep in mind that things change quickly. **THERE IS NO WARRANTY GIVEN THAT THE LIST IS 100% ACCURATE. PLEASE USE IT CAREFULLY, ESPECIALLY IN PRODUCTION.**
+## ![#ff0000](https://placehold.co/15/ff0000/ff0000) IMPORTANT: Please notice
+The repository has seen a significant amount of effort to ensure the validity of the domains. DNS checks are handled cautiously to reduce the risk of false results. However, it's important to note that things can change rapidly. **Please bear in mind that there's no warranty regarding the accuracy of this list. Exercise caution, especially for critical use cases.**
 
-| File                   | Description                                                      |
-|:-----------------------|:-----------------------------------------------------------------|
-| ~/domains.txt          | This is a combined list of all valid domains from the sources.   |
-| ~/domains_sources.txt  | Sources to be used for the domains listed line-by-line.          |
-| ~/excludes.txt         | Domains which should be excluded from appearing in the list.     |
-| ~/excludes_sources.txt | Sources used for the excluded domains, also listed line-by-line. |
+### List of adult domains
 
-## Workflow: The way it works
-A background script downloads the content of all sources from here and combines them into one list. While doing so all duplicates and invalid domains will be removed to increase the quality of the list. Later on a DNS check is run on each domain to make sure it is reachable ("online").
+#### block.txt
+This compilation contains all domains aggregated from various sources. Each domain has undergone syntax verification, and any duplicates have been eliminated. Additionally, specific domains, such as those from whitelists, have been omitted.
 
-**What are invalid domains?**
-Domains, that...
-- do not follow RFC 1034
-    - Not in expected format
-    - Invalid characters
-- have extensions which do not exist
-- have no DNS records (A/AAAA/MX)
+**As this file is too big to view in your web browser, feel free to download this HTML file ([Gist: search.html](https://gist.github.com/CodeAlDente/ee033860b0963b34ed107e95102870f7#file-search-html)) to query domains.**
 
-## Contribute: Help to maintain the list
-Please help improving this list by adding or removing sources. Send a pull request or create an issue ticket for that.
+### Blacklist sources
 
-### Add / Remove a single domain
-This repository only makes use of sources which already exist. To add or remove a domain, please reach out to the corresponding maintainer of the list. On the next update the domain will then be added or removed here as well.
+#### bl-sources.txt
+This file contains a list of website links, one after the other, pointing to domains associated with adult websites.
 
-### Exclude a domain
-First try to contact the maintainer of the source which has the domain included. If they do not respond, please create an issue ticket here.
+#### bl-custom.txt
+Custom black list: Domains which aren't listed in the sources will be added here to have them included in the block list.
+
+#### bl-custom
+In this directory, you will discover dedicated blacklist files utilized to structure external data or domains in a specific format, facilitating smooth integration and functionality within background processes.
+
+### Whitelist sources
+
+#### wl-sources.txt
+This file holds a list of website links, one after the other, leading to domains that we want to keep off the block list (usually to prevent mistakenly blocking legitimate websites).
+
+#### wl-custom.txt
+Custom white list: Domains which should be excluded from the block list will be added here.
+
+#### wl-custom
+Within this directory, you'll find specialized whitelist files. These are primarily employed to organize external data or domains into a specific structure or format for seamless integration and functionality in background processes.
+
+### Is something missing or incorrect?
+If you've got a domain that needs to be added or removed, just open an issue and drop the details there. It'd be awesome if you could include a URL pointing to a file within a GitHub Repository or Gist.
+
+Thank you!
