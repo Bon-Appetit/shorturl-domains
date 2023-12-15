@@ -9,6 +9,7 @@
 # Short URL Domains
 This collection brings together domains used in shortlink services, similar to bitly. Rather than crafting a new list, we leverage the excellent work of others and consolidate everything into a single list.
 
+## ATTENTION
 > [!CAUTION]
 > The repository has seen a significant amount of effort to ensure the validity of the domains. DNS checks are handled cautiously to reduce the risk of false results. However, it's important to note that things can change rapidly. **Please bear in mind that there's no warranty regarding the accuracy of this list. Exercise caution, especially for critical use cases.**
 
@@ -42,10 +43,8 @@ Custom white list: Domains which should be excluded from the block list will be 
 Within this directory, you'll find specialized whitelist files. These are primarily employed to organize external data or domains into a specific structure or format for seamless integration and functionality in background processes.
 
 ### Is something missing or incorrect?
-If you've got a domain that needs to be added or removed, just open an issue and drop the details there. It'd be awesome if you could include a URL pointing to a file within a GitHub Repository or Gist.
+If you've got a domain that needs to be added or removed, just open an issue and drop the details there. It'd be awesome if you could include a URL pointing to a file within a GitHub Repository or Gist. Thank you!
 
-### Disclaimer
+## Disclaimer
 > [!WARNING]
 > This repository relies on external domains. No responsibility is assumed for the accuracy or appropriateness of their content. Ensure external sources align with your needs. Using this repository implies agreement to direct issues with external content to the source, and no liability is held. Exercise caution when engaging with external content.
-
-Thank you!
