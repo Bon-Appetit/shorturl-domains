@@ -3,7 +3,7 @@
 
 ---
 
-![Version Alpha](https://img.shields.io/badge/version-alpha-blue?style=for-the-badge) ![Repo Size](https://img.shields.io/github/repo-size/Bon-Appetit/shorturl-domains?style=for-the-badge&logo=github&label=Repo%20Size)
+![Version Alpha](https://img.shields.io/badge/version-alpha-blue?style=flat-square) ![Repo Size](https://img.shields.io/github/repo-size/Bon-Appetit/shorturl-domains?style=flat-square&logo=github&label=Repo%20Size)
 
 # Short URL Domains
 This collection brings together domains used in shortlink services, similar to bitly. Rather than crafting a new list, we leverage the excellent work of others and consolidate everything into a single list.
