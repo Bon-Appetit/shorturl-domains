@@ -3,7 +3,7 @@
 
 ---
 
-![Repo Size](https://img.shields.io/github/repo-size/Bon-Appetit/shorturl-domains?style=flat-square&logo=github&label=Repo%20Size&cacheSeconds=43200) ![Last List Update](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FBon-Appetit%2Fshorturl-domains%2Fcommits%3Fpath%3Dblock.txt%26page%3D1%26per_page%3D1&query=%24%5B0%5D.commit.author.date&style=flat-square&logo=github&label=Last%20List%20Update&cacheSeconds=43200) ![Commit Activity](https://img.shields.io/github/commit-activity/y/Bon-Appetit/shorturl-domains?style=flat-square&logo=github&label=Commit%20Activity&cacheSeconds=43200)
+![List Size](https://img.shields.io/github/size/Bon-Appetit/shorturl-domains/block.txt?style=flat-square&logo=github&label=Repo%20Size&cacheSeconds=43200) ![Last List Update](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FBon-Appetit%2Fshorturl-domains%2Fcommits%3Fpath%3Dblock.txt%26page%3D1%26per_page%3D1&query=%24%5B0%5D.commit.author.date&style=flat-square&logo=github&label=Last%20List%20Update&cacheSeconds=43200) ![Commit Activity](https://img.shields.io/github/commit-activity/y/Bon-Appetit/shorturl-domains?style=flat-square&logo=github&label=Commit%20Activity&cacheSeconds=43200)
 
 # Short URL Domains
 This collection brings together domains used in shortlink services, similar to bitly. Rather than crafting a new list, we leverage the excellent work of others and consolidate everything into a single list.
